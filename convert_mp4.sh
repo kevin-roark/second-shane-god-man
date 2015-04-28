@@ -8,3 +8,5 @@
 
 ~/code/art/shane/mistershane/webm.sh video/vin_diesel.mp4 video/vin_diesel.webm
 ~/code/art/shane/mistershane/webm.sh video/whitey.mp4 video/whitey.webm
+~/code/art/shane/mistershane/webm.sh video/papajohn.mp4 video/papajohn.webm
+
