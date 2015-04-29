@@ -14,3 +14,7 @@
 ~/code/art/shane/mistershane/webm.sh video/johncena.mp4 video/johncena.webm
 ~/code/art/shane/mistershane/webm.sh video/godsistene.mp4 video/godsistene.webm
 ~/code/art/shane/mistershane/webm.sh video/hulkhogan.mp4 video/hulkhogan.webm
+~/code/art/shane/mistershane/webm.sh video/bigsean.mp4 video/bigsean.webm
+~/code/art/shane/mistershane/webm.sh video/lilwayne.mp4 video/lilwayne.webm
+~/code/art/shane/mistershane/webm.sh video/lebron.mp4 video/lebron.webm
+~/code/art/shane/mistershane/webm.sh video/jordan.mp4 video/jordan.webm
